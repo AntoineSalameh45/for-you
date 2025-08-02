@@ -96,12 +96,12 @@ const RightNow = () => {
         <img
           src={pikaSad1}
           alt="pika1"
-          className="rounded-lg h-32 object-cover"
+          className="rounded-lg h-24 object-cover"
         />
         <img
           src={pikaSad2}
           alt="pika2"
-          className="rounded-lg h-32 object-cover"
+          className="rounded-lg h-24 object-cover"
         />
       </div>
       <h3 className="text-xl font-bold mb-4 text-titles">
