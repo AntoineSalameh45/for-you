@@ -10,6 +10,7 @@ const ForYou = () => {
       <a href="/right-now" className="mb-4">
         <img src={sophia} alt="sophia" className="h-32" />
       </a>
+      <p>Click on Qiqi</p>
     </div>
   );
 }
