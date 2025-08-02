@@ -48,6 +48,47 @@ const RightNow = () => {
           need to speak it was all obvious. I was getting attached and i knew it.
         </p>
         <h3>Haru Matsuri</h3>
+        <p>
+          It was the first time we go out for a whole day after i got to know you a bit more and understand
+          your condition just a little bit. On that day we were having fun until it became too mcuh for you.
+          It was the first time i see you like that, I just didn't know what to do and how to help. i made
+          lots of mistakes and still do everyday trying to understand what i should do. If i learned anything 
+          is that most of the time I should actually just give you space and let you be. Something I'm still
+          tryna change about myself. It's never actually about me, it never was. I thought I was showing that
+          I care by being there for you but it was actually the opposite. I was just being selfish and i didn't
+          realize it until now. I've been a bit pushy, a crybaby, and a little too clingy. I always try to 
+          find solutions when sometimes there is nothing to do but to be there and listen or just give you 
+          your space and wait for you to come back once you feel a bit better. I said you're like a cat but
+          I always forget that this is kind of how cats are. On the other side I'm like a dog, I always want to be
+          around you, I always want to play and yap. I just can't help it, I like you a lot. I know it's not easy
+          for you to deal with me and my clinginess but I hope you can forgive me for that.
+        </p>
+        <h3>Where we are now</h3>
+        <p>
+          The day we went fishing was just like any other day. We spent time together not knowing what was gonna 
+          happen. I was just happy being with you and enjoying our time. I got a bit tired and sleepy so i layed 
+          down then after some time you had enough of it and stopped fishing. We talked like a lot, I won't go
+          back into details cz that's the last thing you wanna hear about. But let me add this, when we were 
+          just sitting and scrolling through tiktoks and laughing, I was genuinely so happy I didn't care about
+          anything else in the entire world. Then it happened. I took time to process it. I was smiling like an 
+          idiot for a whole day I couldn't even sleep. Not thinking about how you went through it and processed it,
+          at this moment i was happy and selfish about it. You needed time to gather your thoughts, time that was
+          cut short. The thing we feared the most happened. I know I shouldn't say "we" when actually it was never
+          about me, it was about you. It was your life that was going crushing down. Yeah I lost it, we did, both
+          me and your kiddo. Why did we when it was never about us? Cause it was you. Again maybe in my case it was
+          for selfish reasons and when it didn't go the way I wanted I started blaming myself and victimizing myself
+          at once. I wasn't thinking straight. Ok i'm sad but what about her? It's literally her life. she's the actual
+          victim in all this. I know a lot of what i said even here when i'm tryna apologize is gonna pyo. I know 
+          I said this before but never really shown any progress but I'm trying to be better, I have to be mature,
+          I gotta start to be the man i have to be. I'm sorry for thinking about me when it was about you. I'll 
+          give you your space for now, at least that's what I'm trying to do. I will always be here to listen to 
+          you. I don't wanna lose the friend I found in you. I know i was dismissive in a lot of things just 
+          cause I was blinded by my own delusions. I am not even going through the points i wanna make one by one 
+          it's just a big ball of messy. It might seem crazy what I'm trying to say, but basically it's a big 
+          apology for being the way that i am, I'm gonna try to just put that in my head and give u space and time 
+          when needed. I'll also stop, at least try, to be that immature/stupid person. I am not going to 
+          pressure you and be more understanding. 
+        </p>
     </div>
   );
 };
