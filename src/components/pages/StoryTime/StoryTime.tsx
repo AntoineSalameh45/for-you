@@ -6,6 +6,7 @@ import {
   pikaSad2,
   apolocheese,
 } from "../../../assets";
+import KeyboardDoubleArrowUpIcon from '@mui/icons-material/KeyboardDoubleArrowUp';
 
 const StoryTime = () => {
   return (
@@ -18,6 +19,7 @@ const StoryTime = () => {
           It's been a tough shitass week I know. Lots of things happened, and a
           lot more to come. But our story wasn't always like that...
         </p>
+        <KeyboardDoubleArrowUpIcon fontSize="large" className="text-titles my-4 mx-auto" />
       </section>
       <section className="snap-start min-h-screen p-5 flex flex-col justify-center">
         <h2 className="text-xl font-bold mb-4 text-titles">
@@ -60,6 +62,7 @@ const StoryTime = () => {
             />
           </div>
         </div>
+        <KeyboardDoubleArrowUpIcon fontSize="large" className="text-titles my-4 mx-auto" />
       </section>
       <section className="snap-start min-h-screen p-5 flex flex-col justify-center">
         <h3 className="text-xl font-bold mb-4 text-titles">
@@ -82,6 +85,7 @@ const StoryTime = () => {
             className="rounded-lg h-32 object-cover"
           />
         </div>
+        <KeyboardDoubleArrowUpIcon fontSize="large" className="text-titles my-4 mx-auto" />
       </section>
       <section className="snap-start min-h-screen p-5 flex flex-col justify-center">
         <h3 className="text-xl font-bold mb-4 text-titles">
@@ -114,6 +118,7 @@ const StoryTime = () => {
             className="rounded-lg h-24 object-cover"
           />
         </div>
+        <KeyboardDoubleArrowUpIcon fontSize="large" className="text-titles my-4 mx-auto" />
       </section>
       <section className="snap-start min-h-screen p-5 flex flex-col justify-center">
         <h3 className="text-xl font-bold mb-4 text-titles">
@@ -128,6 +133,7 @@ const StoryTime = () => {
           looking at you like "damn she's cute". I didn't even need to speak it
           was all obvious. I was getting attached and i knew it.
         </p>
+        <KeyboardDoubleArrowUpIcon fontSize="large" className="text-titles my-4 mx-auto" />
       </section>
       <section className="snap-start min-h-screen p-5 flex flex-col justify-center">
         <h3 className="text-xl font-bold mb-4 text-titles">Haru Matsuri</h3>
@@ -159,6 +165,7 @@ const StoryTime = () => {
             className="rounded-lg h-32 object-cover"
           />
         </div>
+        <KeyboardDoubleArrowUpIcon fontSize="large" className="text-titles my-4 mx-auto" />
       </section>
       <section className="snap-start min-h-screen p-5 flex flex-col justify-center">
         <h3 className="text-xl font-bold mb-4 text-titles">Where we are now</h3>
