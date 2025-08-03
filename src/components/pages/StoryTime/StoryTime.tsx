@@ -5,6 +5,7 @@ import {
   pikaSad1,
   pikaSad2,
   apolocheese,
+  flowers,
 } from "../../../assets";
 import KeyboardDoubleArrowUpIcon from "@mui/icons-material/KeyboardDoubleArrowUp";
 
@@ -244,6 +245,18 @@ const StoryTime = () => {
             in my head and give u space and time when needed. I'll also stop, at
             least try, to be that immature/stupid person. I am not going to
             pressure you and be more understanding.
+          </p>
+        </section>
+        <section className="snap-start min-h-screen p-5 flex flex-col justify-center pt-20 pb-40">
+          <div className="mx-auto p-3 rounded-2xl border-2 border-titles bg-white/5 backdrop-blur-sm shadow-xl shadow-black/20">
+            <img
+              src={flowers}
+              alt="flowers for you"
+              className="rounded-xl object-cover w-72 h-72"
+            />
+          </div>
+          <p className="mt-4 text-center text-paragraph italic">
+            Pretty accurate representation of us if you ask me
           </p>
         </section>
       </div>
