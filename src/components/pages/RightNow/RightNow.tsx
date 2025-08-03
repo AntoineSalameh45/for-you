@@ -1,9 +1,11 @@
-import starring from "../../../assets/genshin1.jpg";
-import fishing from "../../../assets/genshin2.jpg";
-// import annoying from "../../../assets/annoying.jpg";
-import pikaHeart from "../../../assets/pika-heart.jpg";
-import pikaSad1 from "../../../assets/pika-sad-1.jpg";
-import pikaSad2 from "../../../assets/pika-sad-2.jpg";
+import {
+  genshin1,
+  genshin2,
+  pikaHeart,
+  pikaSad1,
+  pikaSad2,
+  apolocheese,
+} from "../../../assets";
 
 const RightNow = () => {
   return (
@@ -24,14 +26,14 @@ const RightNow = () => {
         questions and you were there to answer them. I went into your dms to ask
         you about characters and team comps lol. Idk how but we started
         co-oping, more precisely I started joining you and the gnome in co-op.
-        It went on for a few days then we turned ou to be neighbors, and I was
+        It went on for a few days then we turned out to be neighbors, and I was
         like "ah kool". Next thing I know you went like let's meetup tomorrow
         and Mr.Brown. I lowkey panicked cause wdym a girl asked me to hangout???
       </p>
       <div className="flex flex-col items-center mb-6">
         <div className="rounded-xl border-4 border-[#533a30] bg-[#ae885a] shadow-md p-2 w-fit mb-2">
           <img
-            src={starring}
+            src={genshin1}
             alt="Autistically starring"
             className="rounded-lg h-32 object-cover"
           />
@@ -48,7 +50,7 @@ const RightNow = () => {
         </p>
         <div className="rounded-xl border-4 border-[#533a30] bg-[#ae885a] shadow-md p-2 w-fit mt-2">
           <img
-            src={fishing}
+            src={genshin2}
             alt="fishing with layla"
             className="rounded-lg h-32 object-cover"
           />
@@ -75,7 +77,7 @@ const RightNow = () => {
         />
       </div>
       <h3 className="text-xl font-bold mb-4 text-titles">
-        Uni and atcl hangouts
+        Uni and ATCL hangouts
       </h3>
       <p className="mb-2 text-paragraph p-2">
         You still had uni and I was enrolled in the bootcamp so we didn't
@@ -89,8 +91,8 @@ const RightNow = () => {
         We did for a bit then i was just contemplating your play. It went for
         like an hour then idk how but you confronted me and I went blank. I felt
         so small cause i was literally getting rejected before even trying. But
-        you made it clear and import PropTypes from 'prop-types' was for the
-        best to the both of us. I tried.. I really did but.. I couldn't help it.
+        you made it clear and was for the best to the both of us. I tried.. I
+        really did but.. I couldn't help it.
       </p>
       <div className="rounded-xl p-2 w-fit mt-2 mx-auto flex gap-5">
         <img
@@ -138,6 +140,14 @@ const RightNow = () => {
         you to deal with me and my clinginess but I hope you can forgive me for
         that.
       </p>
+      <div className="rounded-xl p-2 w-fit mt-2 mx-auto">
+        <img
+          src={apolocheese}
+          alt="apolocheese"
+          className="rounded-lg h-32 object-cover"
+        />
+      </div>
+
       <h3 className="text-xl font-bold mb-4 text-titles">Where we are now</h3>
       <p className="mb-2 text-paragraph p-2">
         The day we went fishing was just like any other day. We spent time
@@ -168,9 +178,9 @@ const RightNow = () => {
         listen to you. I don't wanna lose the friend I found in you. I know i
         was dismissive in a lot of things just cause I was blinded by my own
         delusions. I am not even going through the points i wanna make one by
-        one it's just a big ball of messy. It might seem crazy what I'm trying
-        to say, but basically it's a big apology for being the way that i am,
-        I'm gonna try to just put that in my head and give u space and time when
+        one it's just a big ball of mess. It might seem crazy what I'm trying to
+        say, but basically it's a big apology for being the way that i am, I'm
+        gonna try to just put that in my head and give u space and time when
         needed. I'll also stop, at least try, to be that immature/stupid person.
         I am not going to pressure you and be more understanding.
       </p>
