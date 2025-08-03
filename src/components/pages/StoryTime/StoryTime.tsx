@@ -10,8 +10,8 @@ import KeyboardDoubleArrowUpIcon from '@mui/icons-material/KeyboardDoubleArrowUp
 
 const StoryTime = () => {
   return (
-    <div className="h-screen snap-y snap-mandatory overflow-y-scroll bg-pagebg p-5">
-      <section className="snap-start min-h-screen p-5 flex flex-col justify-center">
+    <div className="h-screen snap-y snap-mandatory overflow-y-scroll scroll-smooth bg-pagebg px-5 py-10">
+      <section className="snap-start min-h-screen p-5 flex flex-col justify-center pt-20 pb-40">
         <h2 className="text-xl font-bold mb-4 text-titles">Hey...</h2>
         <p className="mb-2 text-paragraph p-2">
           So I know we haven't been on the best terms lately.
@@ -21,7 +21,7 @@ const StoryTime = () => {
         </p>
         <KeyboardDoubleArrowUpIcon fontSize="large" className="text-titles my-4 mx-auto" />
       </section>
-      <section className="snap-start min-h-screen p-5 flex flex-col justify-center">
+      <section className="snap-start min-h-screen p-5 flex flex-col justify-center pt-20 pb-40">
         <h2 className="text-xl font-bold mb-4 text-titles">
           Ouverture des rideaux
         </h2>
@@ -64,7 +64,7 @@ const StoryTime = () => {
         </div>
         <KeyboardDoubleArrowUpIcon fontSize="large" className="text-titles my-4 mx-auto" />
       </section>
-      <section className="snap-start min-h-screen p-5 flex flex-col justify-center">
+      <section className="snap-start min-h-screen p-5 flex flex-col justify-center pt-20 pb-40">
         <h3 className="text-xl font-bold mb-4 text-titles">
           Fast forward the next day
         </h3>
@@ -87,7 +87,7 @@ const StoryTime = () => {
         </div>
         <KeyboardDoubleArrowUpIcon fontSize="large" className="text-titles my-4 mx-auto" />
       </section>
-      <section className="snap-start min-h-screen p-5 flex flex-col justify-center">
+      <section className="snap-start min-h-screen p-5 flex flex-col justify-center pt-20 pb-40">
         <h3 className="text-xl font-bold mb-4 text-titles">
           Uni and ATCL hangouts
         </h3>
@@ -120,7 +120,7 @@ const StoryTime = () => {
         </div>
         <KeyboardDoubleArrowUpIcon fontSize="large" className="text-titles my-4 mx-auto" />
       </section>
-      <section className="snap-start min-h-screen p-5 flex flex-col justify-center">
+      <section className="snap-start min-h-screen p-5 flex flex-col justify-center pt-20 pb-40">
         <h3 className="text-xl font-bold mb-4 text-titles">
           We still hung out and stayed fremds
         </h3>
@@ -135,7 +135,7 @@ const StoryTime = () => {
         </p>
         <KeyboardDoubleArrowUpIcon fontSize="large" className="text-titles my-4 mx-auto" />
       </section>
-      <section className="snap-start min-h-screen p-5 flex flex-col justify-center">
+      <section className="snap-start min-h-screen p-5 flex flex-col justify-center pt-20 pb-40">
         <h3 className="text-xl font-bold mb-4 text-titles">Haru Matsuri</h3>
         <p className="mb-2 text-paragraph p-2">
           It was the first time we go out for a whole day after i got to know
@@ -167,7 +167,7 @@ const StoryTime = () => {
         </div>
         <KeyboardDoubleArrowUpIcon fontSize="large" className="text-titles my-4 mx-auto" />
       </section>
-      <section className="snap-start min-h-screen p-5 flex flex-col justify-center">
+      <section className="snap-end min-h-screen p-5 flex flex-col justify-center">
         <h3 className="text-xl font-bold mb-4 text-titles">Where we are now</h3>
         <p className="mb-2 text-paragraph p-2">
           The day we went fishing was just like any other day. We spent time
