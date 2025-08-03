@@ -7,7 +7,7 @@ import {
   apolocheese,
 } from "../../../assets";
 
-const RightNow = () => {
+const StoryTime = () => {
   return (
     <div className="h-screen snap-y snap-mandatory overflow-y-scroll bg-pagebg p-5">
       <section className="snap-start min-h-screen p-5 flex flex-col justify-center">
@@ -203,4 +203,4 @@ const RightNow = () => {
   );
 };
 
-export default RightNow;
+export default StoryTime;

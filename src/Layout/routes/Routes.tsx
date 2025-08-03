@@ -8,7 +8,7 @@ import {
 } from "react-router";
 
 import { routeNames } from "./routeNames";
-import RightNow from "../../components/pages/RightNow/RightNow";
+import { StoryTime } from "../../components/pages/StoryTime";
 
 const ForYou = React.lazy(() =>
   import("../../components/pages/ForYou").then((module) => ({
@@ -28,7 +28,7 @@ const Routes = () => {
             }
           />
             <Route path={routeNames.forYou} element={<ForYou />} />
-            <Route path={routeNames.rightNow} element={<RightNow />} />
+            <Route path={routeNames.storyTime} element={<StoryTime />} />
         </Route>
       )
     );

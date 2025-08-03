@@ -1,6 +1,6 @@
 const routeNames = {
     forYou: "/for-you",
-    rightNow: "/right-now",
+    storyTime: "/story-time",
   };
   
   export { routeNames };

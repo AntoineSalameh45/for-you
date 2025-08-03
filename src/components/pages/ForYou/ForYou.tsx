@@ -7,7 +7,7 @@ const ForYou = () => {
         <p className="mb-1">I have a message</p>
         <h1 className="text-2xl font-bold">For You...</h1>
       </div>
-      <a href="/right-now" className="mb-4">
+      <a href="/story-time" className="mb-4">
         <img src={sophia} alt="sophia" className="h-32" />
       </a>
       <p>Click on Qiqi</p>
