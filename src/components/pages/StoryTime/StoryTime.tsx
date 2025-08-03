@@ -43,8 +43,8 @@ const StoryTime = () => {
               Ouverture des rideaux
             </h2>
             <p className="mb-2 text-paragraph p-2">
-              It all started on the genshin group, before that all I new is this
-              girl likes to call me sophia oddly enough. I was still new and
+              It all started on the genshin group, before that all I knew was "this
+              girl likes to call me sophia oddly enough". I was still new and
               asking lots of questions and you were there to answer them. I went
               into your dms to ask you about characters and team comps lol. Idk
               how but we started co-oping, more precisely I started joining you
