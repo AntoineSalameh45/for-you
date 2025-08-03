@@ -5,3 +5,4 @@ export { default as pikaHeart } from "./pika-heart.jpg";
 export { default as pikaSad1 } from "./pika-sad-1.jpg";
 export { default as pikaSad2 } from "./pika-sad-2.jpg";
 export { default as flowers} from "./flowers.jpg";
+export { default as us } from "./us.jpg";

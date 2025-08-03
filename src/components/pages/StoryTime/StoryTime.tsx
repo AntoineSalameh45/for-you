@@ -1,4 +1,5 @@
 import {
+  us,
   genshin1,
   genshin2,
   pikaHeart,
@@ -22,6 +23,13 @@ const StoryTime = () => {
               It's been a tough shitass week I know. Lots of things happened,
               and a lot more to come. But our story wasn't always like that...
             </p>
+            <div className="rounded-xl border-4 border-[#533a30] bg-[#ae885a] shadow-md p-2 w-fit mb-2">
+              <img
+                src={us}
+                alt="just the two of us"
+                className="rounded-lg h-32 object-cover"
+              />
+            </div>
           </div>
 
           <KeyboardDoubleArrowUpIcon
@@ -247,6 +255,18 @@ const StoryTime = () => {
               that in my head and give u space and time when needed. I'll also
               stop, at least try, to be that immature/stupid person. I am not
               going to pressure you and be more understanding.
+              <br />I took ur words into consideration and I'll be working on
+              myself to become better. I acknowledged the fact that u have ur
+              good and bad sides and I want u to be real with me. I have to
+              accept them and be patient, it's not always going to be rainbows
+              and unicorn. It took me some time to understand that. I wanna hear
+              your problems and understand them and to help u somehow hopefully.
+              Stop to victimize myself for the future, and again I apologize for
+              whatever I did. I shouldn't have triggered u when u were already
+              under alot of pressure but I'm learning to be better for the next
+              time, I hope you can somehow forgive me and we move on from this
+              because I really don't want to lose you. Thank you for taking your
+              time reading this.
             </p>
           </div>
           <KeyboardDoubleArrowUpIcon
